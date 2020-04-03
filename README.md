@@ -5,8 +5,7 @@ Click the link below, and enter the width of the board then the height and use t
 
 http://alialiayman.github.io/React-Game
 
-
-
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/9623964/78329696-3e792800-7537-11ea-8bc2-1527a312f5f0.png">
 
 
 ## Deployment
