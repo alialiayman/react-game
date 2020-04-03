@@ -14,6 +14,7 @@ This project was deployed using instructions in this [Url](https://dev.to/yuribe
 You can view the deployed react app at this link http://alialiayman.github.io/React-Game
 
 **Steps**
+```
 npm install gh-pages --save-dev
 
 in package.json add
@@ -25,7 +26,7 @@ and in scripts section add
 "deploy": "gh-pages -d build"
 
 npm run deploy
-
+```
 
 ## Links
 Hackerbay [Backend challenge](http://GitHub.com/hackerbay/interview)
