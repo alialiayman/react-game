@@ -14,11 +14,14 @@ This project was deployed using instructions in this [Url](https://dev.to/yuribe
 You can view the deployed react app at this link http://alialiayman.github.io/React-Game
 
 **Steps**
+
+If you can't run locally. check https://alialiayman.github.io/react-game/ for a live version. If the live version does not work and you may want to install it to your github pages, here are the publish steps
+
 ```
 npm install gh-pages --save-dev
 
 in package.json add
-"homepage": "http://alialiayman.github.io/React-Game"
+"homepage": "https://alialiayman.github.io/react-game"
 
 and in scripts section add
 
