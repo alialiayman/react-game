@@ -13,12 +13,12 @@ Ayman Ali | Engineering | HAJonSoft, Inc.
 | Action | Date | Who | Outcome |
 | --- | --- | --- | --- |
 | Initial 1:1 w/ Manager | Day 1 | Ayman Ali | Initial introduction with manager |
-| Initial 1:1 w/ Buddy | Day 1 | Matt Whitt | Initial introduction with buddy |
+| Initial 1:1 w/ Buddy | Day 1 | Buddy | Initial introduction with buddy |
 | Meet the Team | Day 1 | | Get to know everyone on the team |
-| Development Tool Setup | Day 1 | Matt Whitt | Provide overview of how to get started setting up computer for development (Self study) |
-| Day-to-Day Development | Day 1 | Matt Whitt | Provide overview of what our day-to-day development is like (Self study) |
+| Development Tool Setup | Day 1 | Buddy | Provide overview of how to get started setting up computer for development (Self study) |
+| Day-to-Day Development | Day 1 | Buddy | Provide overview of what our day-to-day development is like (Self study) |
 | Platform Overview | Day 2 | Business Team | Knowledge of how our platform works |
-| Platform Setup | Day 2 | Vlad Beliakov |
+| Platform Setup | Day 2 | Tester |
 - Client and provider account setup in dev and test environment
 - Can log into platform and perform common workflows
  |
@@ -27,38 +27,38 @@ Ayman Ali | Engineering | HAJonSoft, Inc.
 - Knowledge of features to come
  |
 | Introduction to Platform Architecture | Day 3 | Ayman Ali | General architectural knowledge of HAJonSoft current platform |
-| Introduction to Frontend Development | Day 4 | Anukul Shenoy |
+| Introduction to Frontend Development | Day 4 | Develpoer FE |
 - Knowledge of FE application structure
 - How to build, test and run FE application locally
  |
-| Introduction to Gateway Development | Day 4 | Ashley Ma |
+| Introduction to Gateway Development | Day 4 | Developer BE |
 - Knowledge of GW application structure
 - How to build, test and run GW locally
  |
-| Introduction to Backend Development | Day 5 | Adelein Rodriquez |
+| Introduction to Backend Development | Day 5 | Developer BE |
 - Knowledge of BE service structure
 - How to build, test and run BE service locally
  |
-| FE Proposal Development In-Depth | Day 5 | Anukul Shenoy |
+| FE Proposal Development In-Depth | Day 5 | Develpoer FE |
 - In-depth knowledge of specific feature in UI
 - Understand code structure and how component work
  |
-| QA &amp; PMO Session | Day 5 | Kamran Johal |
+| QA &amp; PMO Session | Day 5 | Scrum Master |
 - Knowledge of HAJonSoft project management process
 - Knowledge of QA process
  |
-| BE In-depth: Part 1 Proposals | Day 5 | Sammy David-Mendelow | In-depth knowledge around key backend services (prudencio) |
-| BE In-depth: Part 2 Award Flow &amp; Peripherals | Day 6 | Sammy David-Mendelow |
+| BE In-depth: Part 1 Proposals | Day 5 | Developer BE | In-depth knowledge around key backend services (prudencio) |
+| BE In-depth: Part 2 Award Flow &amp; Peripherals | Day 6 | Developer BE |
 - In-depth knowledge platform&#39;s around flow logic
 - Knowledge of peripheral services connected with HAJonSoft
  |
 | Introduction to Platform Debug/Monitoring | Day 6 | Ayman Ali |
 - Knowledge around how to debug and monitor platform
  |
-| Introduction to Tech Support | Day 7 | Gary Quizon |
+| Introduction to Tech Support | Day 7 | Support Engineer |
 - Knowledge of how tech support team operates
  |
-| Introduction to DevOps | Day 8 | James Chung |
+| Introduction to DevOps | Day 8 | DevOps Engineer |
 - Knowledge of how DevOps team operates
 - Overview of platform infrastructure
  |
