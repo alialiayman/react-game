@@ -1,3 +1,5 @@
+We encourage and welcome all interns, friends and geeks to work with us in any of alialiayman repos. Here are some onboarding help that we put together.
+
 Hi –
 
 I and the rest of the HAJonSoft Team are very excited that you&#39;re joining our team. Can&#39;t wait for you to start.
