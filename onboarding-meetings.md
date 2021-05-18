@@ -20,50 +20,21 @@ Ayman Ali | Engineering | HAJonSoft, Inc.
 | Development Tool Setup | Day 1 | Buddy | Provide overview of how to get started setting up computer for development (Self study) |
 | Day-to-Day Development | Day 1 | Buddy | Provide overview of what our day-to-day development is like (Self study) |
 | Platform Overview | Day 2 | Business Team | Knowledge of how our platform works |
-| Platform Setup | Day 2 | Tester |
-- Client and provider account setup in dev and test environment
-- Can log into platform and perform common workflows
- |
-| Proposals General Overview | Day 3 | Russell Wynne |
-- Knowledge of specific features
-- Knowledge of features to come
- |
+| Platform Setup | Day 2 | Tester | Client and provider account setup in dev and test environment, Can log into platform and perform common workflows |
+| General Overview | Day 3 | PO | Knowledge of specific features, Knowledge of features to come |
 | Introduction to Platform Architecture | Day 3 | Ayman Ali | General architectural knowledge of HAJonSoft current platform |
-| Introduction to Frontend Development | Day 4 | Develpoer FE |
-- Knowledge of FE application structure
-- How to build, test and run FE application locally
- |
-| Introduction to Gateway Development | Day 4 | Developer BE |
-- Knowledge of GW application structure
-- How to build, test and run GW locally
- |
-| Introduction to Backend Development | Day 5 | Developer BE |
-- Knowledge of BE service structure
-- How to build, test and run BE service locally
- |
-| FE Proposal Development In-Depth | Day 5 | Develpoer FE |
-- In-depth knowledge of specific feature in UI
-- Understand code structure and how component work
- |
-| QA &amp; PMO Session | Day 5 | Scrum Master |
-- Knowledge of HAJonSoft project management process
-- Knowledge of QA process
- |
-| BE In-depth: Part 1 Proposals | Day 5 | Developer BE | In-depth knowledge around key backend services (prudencio) |
-| BE In-depth: Part 2 Award Flow &amp; Peripherals | Day 6 | Developer BE |
-- In-depth knowledge platform&#39;s around flow logic
-- Knowledge of peripheral services connected with HAJonSoft
- |
-| Introduction to Platform Debug/Monitoring | Day 6 | Ayman Ali |
-- Knowledge around how to debug and monitor platform
- |
-| Introduction to Tech Support | Day 7 | Support Engineer |
-- Knowledge of how tech support team operates
- |
-| Introduction to DevOps | Day 8 | DevOps Engineer |
-- Knowledge of how DevOps team operates
-- Overview of platform infrastructure
- |
+| Introduction to Frontend Development | Day 4 | Develpoer FE | Knowledge of FE application structure, How to build, test and run FE application locally |
+| Introduction to Gateway Development | Day 4 | Developer BE | Knowledge of GW application structure, How to build, test and run GW locally |
+| Introduction to Backend Development | Day 5 | Developer BE | Knowledge of BE service structure, How to build, test and run BE service locally |
+| FE  Development In-Depth | Day 5 | Develpoer FE | In-depth knowledge of specific feature in UI Understand code structure and how component work |
+| QA &amp; PMO Session | Day 5 | Scrum Master | Knowledge of HAJonSoft project management process Knowledge of QA process |
+| BE In-depth: Part 1  | Day 5 | Developer BE | In-depth knowledge around key backend services (prudencio) |
+| BE In-depth: Part 2  | Day 6 | Developer BE | In-depth knowledge platform&#39;s around flow logic Knowledge of peripheral services connected with HAJonSoft |
+| Introduction to Platform Debug/Monitoring | Day 6 | Ayman Ali | Knowledge around how to debug and monitor platform |
+| Introduction to Tech Support | Day 7 | Support Engineer | Knowledge of how tech support team operates |
+| Introduction to DevOps | Day 8 | DevOps Engineer | Knowledge of how DevOps team operates Overview of platform infrastructure |
+
+If you are interested in online courses we have pluralsight as well as ultimate courses group membership that we can share. Please just ask.
 
 After every meeting, you will receive an email from the host of the meeting with links, presentations as well as a recording for the meeting. Example below.
 
@@ -82,7 +53,7 @@ You can find below some useful link
 
 Welcome to HAJonSoft 😊
 
-Lior Marom | **HAJonSoft** | QA Engineer | +1 418 216-6121
+Lior Marom | **HAJonSoft** | QA Engineer | +1 949-522-1879
 
 **From:** Zoom \&lt;no-reply@zoom.us\&gt;
 
