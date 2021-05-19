@@ -16,6 +16,7 @@ git clone
 git checkout -b
 git add .
 git commit -m ""
+git pull
 git push
 git remote show origin
 git remote set-url origin [BRANCH_NAME]
