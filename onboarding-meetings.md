@@ -1,4 +1,4 @@
-We encourage and welcome all interns, friends and geeks to work with us in any of alialiayman repos. Here are some onboarding help that we put together.
+We encourage and welcome all interns, friends and geeks to work with us in any of our repos. Here are some onboarding help that we put together.
 
 Hi –
 
