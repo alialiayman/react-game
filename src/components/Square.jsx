@@ -1,7 +1,7 @@
 import React from 'react';
 import './Square.scss';
-import enemy from './enemy.png';
-import player from './player.png';
+import enemy from './enemy.svg';
+import player from './player.svg';
 
 const Square = ({ row, column, board }) => {
 
