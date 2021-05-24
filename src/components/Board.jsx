@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Square from './Square';
 import { createBoard } from '../helpers/core';
+import './Board.scss';
 
 const Board = ({ rows, columns }) => {
 
@@ -23,7 +24,7 @@ const Board = ({ rows, columns }) => {
         }
         model.totalMoves++;
         setModel({ ...model });
-        if (!model.elements.find(a => a.hasEnemy)){
+        if (!model.elements.find(a => a.hasEnemy)) {
             alert('Game over. Total moves to save princess: ' + model.totalMoves);
             setModel(createBoard(rows, columns));
         }
@@ -57,12 +58,13 @@ const Board = ({ rows, columns }) => {
     };
     return (
         <React.Fragment>
-          { divs }
-          <button onClick={() => setModel(createBoard(rows, columns))}>Restart</button>
-          <br></br>  
-          Total Moves: {model.totalMoves}
+            <div className="boardContainer">
+                {divs}
+                <button onClick={() => setModel(createBoard(rows, columns))}>Restart</button>
+                <p>Total Moves: {model.totalMoves}</p>
+            </div>
         </React.Fragment>
-        );
+    );
 
 }
 
