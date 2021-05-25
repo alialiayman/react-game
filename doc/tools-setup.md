@@ -25,6 +25,11 @@ git remote set-url origin [BRANCH_NAME]
 
 #### VS Code
 
+#### Kap
+If you are on Mac. [Kap](https://getkap.co/) is a really nice tool that can capture your screen and turn the recording into an animated gif or a small mp4. This is great for communication between developers. Kap also comes with lots of plugins that you can choose from including gifski, do-not-disturb, hide-desktop-icons and playback-speed
+
+on windows [screenToGif ](https://www.screentogif.com/) is a defactor standard
+
 #### Node
 
 #### create-react-app
