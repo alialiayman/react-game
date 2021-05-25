@@ -1,5 +1,5 @@
 ## Board Game
-This board game is the solution to the front end task in this [interview](/interview.md)
+This board game is the solution to the front end task in this [interview](/doc/interview.md)
 
 Click the link below, and enter the width of the board then the height and use the keyboard arrows to move the player
 
