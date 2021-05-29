@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-game/static/css/main.6b9d21e5.chunk.css",
-    "main.js": "/react-game/static/js/main.407ae9b2.chunk.js",
-    "main.js.map": "/react-game/static/js/main.407ae9b2.chunk.js.map",
-    "runtime-main.js": "/react-game/static/js/runtime-main.808753cc.js",
-    "runtime-main.js.map": "/react-game/static/js/runtime-main.808753cc.js.map",
-    "static/js/2.d45e4f98.chunk.js": "/react-game/static/js/2.d45e4f98.chunk.js",
-    "static/js/2.d45e4f98.chunk.js.map": "/react-game/static/js/2.d45e4f98.chunk.js.map",
-    "index.html": "/react-game/index.html",
-    "precache-manifest.a9d12de7b72f732f7664a826a0134392.js": "/react-game/precache-manifest.a9d12de7b72f732f7664a826a0134392.js",
-    "service-worker.js": "/react-game/service-worker.js",
-    "static/css/main.6b9d21e5.chunk.css.map": "/react-game/static/css/main.6b9d21e5.chunk.css.map",
-    "static/js/2.d45e4f98.chunk.js.LICENSE.txt": "/react-game/static/js/2.d45e4f98.chunk.js.LICENSE.txt",
-    "static/media/enemy.svg": "/react-game/static/media/enemy.f3961f26.svg",
-    "static/media/player.svg": "/react-game/static/media/player.8fdc193a.svg"
+    "main.css": "/static/css/main.f24ffb55.chunk.css",
+    "main.js": "/static/js/main.27d92147.chunk.js",
+    "main.js.map": "/static/js/main.27d92147.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2478c08c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2478c08c.js.map",
+    "static/js/2.1ef57552.chunk.js": "/static/js/2.1ef57552.chunk.js",
+    "static/js/2.1ef57552.chunk.js.map": "/static/js/2.1ef57552.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e30f1422464f96cb7978ca452a42a88c.js": "/precache-manifest.e30f1422464f96cb7978ca452a42a88c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f24ffb55.chunk.css.map": "/static/css/main.f24ffb55.chunk.css.map",
+    "static/js/2.1ef57552.chunk.js.LICENSE.txt": "/static/js/2.1ef57552.chunk.js.LICENSE.txt",
+    "static/media/enemy.svg": "/static/media/enemy.a5f7690a.svg",
+    "static/media/player.svg": "/static/media/player.cb76cac8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.808753cc.js",
-    "static/js/2.d45e4f98.chunk.js",
-    "static/css/main.6b9d21e5.chunk.css",
-    "static/js/main.407ae9b2.chunk.js"
+    "static/js/runtime-main.2478c08c.js",
+    "static/js/2.1ef57552.chunk.js",
+    "static/css/main.f24ffb55.chunk.css",
+    "static/js/main.27d92147.chunk.js"
   ]
 }
