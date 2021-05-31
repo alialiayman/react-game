@@ -1,0 +1,15 @@
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    height: 35px;
+    margin: 0px 50px 0px 0px;
+    background: #9FF;
+    color: #000;
+    text-align: right;
+    padding: 10px 30px;
+}
+
+.gitID {
+    color: red;
+}
